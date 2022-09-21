@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'leverow'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C072F60D3B664B56A96065B845477AF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_847F179D19CC440489595E7991397EC5 }}
           package: .
