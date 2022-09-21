@@ -9,14 +9,10 @@
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson/6.0.9": {
@@ -27,14 +23,10 @@
           "Newtonsoft.Json.Bson": "1.0.2"
         },
         "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -52,14 +44,10 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "Newtonsoft.Json.Bson/1.0.2": {
@@ -68,14 +56,10 @@
           "Newtonsoft.Json": "12.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
         }
       },
       "Telegram.Bot/18.0.0": {
@@ -84,14 +68,10 @@
           "Newtonsoft.Json": "12.0.2"
         },
         "compile": {
-          "lib/netcoreapp3.1/Telegram.Bot.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.1/Telegram.Bot.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Telegram.Bot.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/netcoreapp3.1/Telegram.Bot.dll": {}
         }
       }
     }
@@ -274,26 +254,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "/home/nuriddin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj",
+      "projectUniqueName": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj",
       "projectName": "Telegram.Bot.Examples.WebHook",
-      "projectPath": "c:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "c:\\dotnet\\Github\\webhook_tgbot\\obj\\",
+      "projectPath": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj",
+      "packagesPath": "/home/nuriddin/.nuget/packages/",
+      "outputPath": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/nuriddin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -327,8 +305,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -340,7 +317,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }

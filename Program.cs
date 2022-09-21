@@ -46,5 +46,5 @@ app.UseEndpoints(endpoints =>
                                  new { controller = "Webhook", action = "Post" });
     endpoints.MapControllers();
 });
-
+app.MapGet("/", () => "Bot is working 🤖");
 app.Run();

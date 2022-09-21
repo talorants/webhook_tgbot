@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj": {}
+    "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj": {
+    "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj",
+        "projectUniqueName": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj",
         "projectName": "Telegram.Bot.Examples.WebHook",
-        "projectPath": "C:\\dotnet\\Github\\webhook_tgbot\\Telegram.Bot.Examples.WebHook.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\Github\\webhook_tgbot\\obj\\",
+        "projectPath": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/Telegram.Bot.Examples.WebHook.csproj",
+        "packagesPath": "/home/nuriddin/.nuget/packages/",
+        "outputPath": "/home/nuriddin/Desktop/github/Nuriddin321/webhook_tgbot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/nuriddin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,8 +53,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }
