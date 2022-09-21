@@ -3,7 +3,8 @@ using Telegram.Bot.Examples.WebHook.Services;
 using Telegram.Bot.Types;
 
 namespace Telegram.Bot.Examples.WebHook.Controllers;
-
+[ApiController]
+[Route("api/bot")]
 public class WebhookController : ControllerBase
 {
     [HttpPost]
